@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\classes-339c42b02bd35d4ea7a4ffca1108c840eca4933a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rey\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\gson-2.2.4-45c41b77e7689f1ddc50416001667224e3d8db32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-efe44a45bee90920df1bc6c34e2ef4ac4a63f372.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-4ad501e7bcb28179902ae197c6736aa99104a42e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\classes-2affd347f410d64e9b58d43287f44ff9e51e3405.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Rey\AndroidStudioProjects\EnzoneMockup\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-2569566c8d5ca543802736bf248e0ac2d898d242.jar" />
+    </item>
+
+</items>
